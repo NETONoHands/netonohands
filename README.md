@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Neto 👋
 
-<!--
-**NETONoHands/netonohands** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Full-Stack Developer (React | Node.js | TypeScript) — Accessibility-first (WCAG) — Bilingual EN/PT.
 
-Here are some ideas to get you started:
+## What I do
+- Build responsive web apps with React + TypeScript
+- Create REST integrations and Node/Express backends
+- Ship accessible UI with WCAG in mind (assistive-tech friendly)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+- 🌤️ **Weather Forecast App** — JS + External API + HTML/CSS  
+  Repo: https://github.com/NETONoHands/weather-app
+
+- 🧠 **Functioning Pokedex (React + Node + external API + Tests)**  
+  Repo: https://github.com/NETONoHands/exercicio-pokemon-types
+
+## Tech stack
+JavaScript (ES6+) • TypeScript • React • Node.js • Express • HTML • CSS • Git/GitHub • Accessibility (WCAG)
+
+## Let’s connect
+- LinkedIn: https://www.linkedin.com/in/manuel-trindade-09410287/
+- Email: neto.trindade@live.com
