@@ -1,6 +1,6 @@
 # Hi, I'm Neto 👋
 
-Junior Full-Stack Developer (React | Node.js | TypeScript) — Accessibility-first (WCAG) — Bilingual EN/PT.
+Junior Full-Stack Developer (React | Node.js | TypeScript) — Accessibility-first (WCAG) — EN/PT.
 
 ## What I do
 - Build responsive web apps with React + TypeScript
